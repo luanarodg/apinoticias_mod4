@@ -21,9 +21,3 @@ Esse projeto é composto pelos seguintes arquivos:
 Para a criação desse trabalho foi preciso desenvolver alguns critérios para a extração. Onde foram escolhidas três palavras-chave para filtrar as notícias, sendo elas **"DNA sequencing", "gene therapy" e "genetic diseases"**. E com o script de extração feito, as notícias extraídas são armazenadas em formato raw em um csv, para posteriormente ocorrer uma transformação dos dados e consequentemente a disponibilidade para consumo.
 
 A extração ocorre a cada 1 hora onde apenas notícias novas são adicionadas ao arquivo e, se alguma notícia já estiver armazenada, ela não é adicionada novamente, evitando duplicação.
-
-
-<p align="center">
-  <img src="images/code_results.gif" alt="Alt Text">
-</p>
-
