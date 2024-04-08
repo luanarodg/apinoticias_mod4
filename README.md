@@ -9,6 +9,9 @@ Esse projeto é composto pelos seguintes arquivos:
 
 - **extract_data.ipynb** - presente arquivo que contém todos os códigos reunidos.
 - **app.py** - script com Flask API que gera o ambiente para consumo dos dados.
+- **Projeto.md** - enunciado do projeto.
+- **templates/**
+  - **index.html** - arquivo com o script da página da API.
 - **data/**
   - **api_extract.csv** - arquivo com as notícias extraídas da News API;
   - **articles_relevance.csv** - arquivo com relevância dos artigos;
